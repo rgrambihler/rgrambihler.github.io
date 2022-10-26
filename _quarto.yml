@@ -1,8 +1,9 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "rgrambihler.github.io"
+  title: "Renee Grambihler"
   navbar:
     left:
       - href: index.qmd

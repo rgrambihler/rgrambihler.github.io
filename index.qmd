@@ -1,5 +1,8 @@
 ---
-title: "rgrambihler.github.io"
+title: "Renee Grambihler"
+image: profile-picture.JPG
+about:
+  template: trestles
 ---
 
 This is a Quarto website.
